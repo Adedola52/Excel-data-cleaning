@@ -17,7 +17,7 @@ insight into the sales performance of an e-commerce company over the past year b
 
   TOOLS: Used for the project
   
-  * Excel is used for data cleaning [Download](http://microsoft.com)
+  * Excel is used for data cleaning [download](http://microsoft.com)
   * Mysql for data analysis
   * Powerbi for creating report
 
